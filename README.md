@@ -69,6 +69,31 @@ Project screenshots are located in the **screenshots** folder.
 
 ---
 
+# ⭐ Key Features
+
+- Responsive Website
+- Corporate Branding
+- Contact Forms
+- SEO Optimisation
+- Mobile Friendly
+- Performance Optimisation
+- Secure WordPress Administration
+
+---
+
+# 🚀 Challenges Solved
+
+During this project I:
+
+- Improved website responsiveness.
+- Maintained and updated website content.
+- Enhanced website performance.
+- Configured WordPress plugins.
+- Fixed bugs and layout issues.
+- Improved user experience across multiple devices.
+
+---
+
 # 🔒 Source Code
 
 The source code is confidential and remains the intellectual property of the client.
